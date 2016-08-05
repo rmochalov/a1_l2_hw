@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+
+    <string name="my_txt">Портретная ориентация</string>
+
+    <!--Personal data-->
+    <string name="myName">Roman</string>
+    <string name="mySurname">Mochalov</string>
+    <string name="mySecondname">Dmitrievich</string>
+    <string name="myEmail">roci@yandex.ru</string>
+
+    <string-array name="mySkills">
+        <item>basics of Java</item>
+        <item>basics of HTML</item>
+        <item>basics of CSS</item>
+        <item>1c professional knowledge</item>
+    </string-array>
+</resources>
